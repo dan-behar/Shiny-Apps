@@ -30,4 +30,4 @@ El proyecto contiene cuatro páginas principales:
 
 ## Sección III: Dockerfile.
 
-El dockerfile incluye lo necesario para subir el proyecto a un contenedor con Linux corriendo. La intención era subirlo a un EC2 de AWS y subirlo a la red.
+El dockerfile incluye lo necesario para subir el proyecto a un contenedor con Linux corriendo con docker ya instalado. La intención era subirlo a un EC2 de AWS y subirlo a la red.
